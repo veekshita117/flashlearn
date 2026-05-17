@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/analytics.tsx","./src/components/codeplayground.tsx","./src/components/flashcards.tsx","./src/components/leaderboard.tsx","./src/components/login.tsx","./src/components/mindmap.tsx","./src/components/signup.tsx","./src/components/timer.tsx","./src/components/workshopchallenges.tsx"],"version":"5.9.3"}
